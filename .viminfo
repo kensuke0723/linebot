@@ -23,14 +23,25 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""0	CHAR	0
+	P
+|3,1,0,0,1,0,1626359970,"P"
 
 # File marks:
 '0  1  11  ~/runtime.txt
-|4,48,1,11,1626330818,"~/runtime.txt"
+|4,48,1,11,1626359999,"~/runtime.txt"
 '1  1  11  ~/runtime.txt
-|4,49,1,11,1626330650,"~/runtime.txt"
+|4,49,1,11,1626330818,"~/runtime.txt"
+'2  1  11  ~/runtime.txt
+|4,50,1,11,1626330650,"~/runtime.txt"
+'3  1  11  ~/runtime.txt
+|4,51,1,11,1626330650,"~/runtime.txt"
 
 # Jumplist (newest first):
+-'  1  11  ~/runtime.txt
+|4,39,1,11,1626359999,"~/runtime.txt"
+-'  2  2  ~/runtime.txt
+|4,39,2,2,1626359990,"~/runtime.txt"
 -'  1  11  ~/runtime.txt
 |4,39,1,11,1626330818,"~/runtime.txt"
 -'  1  11  ~/runtime.txt
@@ -39,11 +50,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/runtime.txt
-	*	1626330796	0
+	*	1626359997	0
 	"	1	11
 	^	1	12
-	.	2	0
+	.	3	0
 	+	1	0
 	+	1	12
 	+	1	0
 	+	2	0
+	+	3	0

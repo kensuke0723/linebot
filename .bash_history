@@ -45,3 +45,21 @@ sudo vim runtime.txt
 cat runtime.txt
 sudo vim requirements.txt
 sudo vim Procfile
+git push origin master
+git init
+git add .
+git pull origin master
+git push origin master
+vim runtime.txt
+git init
+git add .
+git push origin master
+git pull origin master
+git push origin master
+git pull origin master
+git init
+git add .
+git pull origin master
+git commit
+git commit runtime.txt
+git pull origin master
