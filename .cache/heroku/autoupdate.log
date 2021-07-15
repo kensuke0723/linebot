@@ -1,0 +1,59 @@
+[2021-07-14T14:36:33.174Z] starting `heroku update --autoupdate` from /usr/lib/heroku/bin/run version
+waiting until 2021-07-14T15:36:33.166Z to update
+waiting until 2021-07-14T15:36:33.166Z to update
+waiting until 2021-07-14T15:36:33.166Z to update
+waiting until 2021-07-14T15:36:33.166Z to update
+waiting until 2021-07-14T15:36:33.166Z to update
+waiting until 2021-07-14T15:36:33.166Z to update
+waiting until 2021-07-14T15:36:33.166Z to update
+waiting until 2021-07-14T15:36:33.166Z to update
+waiting until 2021-07-14T15:36:33.166Z to update
+waiting until 2021-07-14T15:36:33.166Z to update
+waiting until 2021-07-14T15:36:33.166Z to update
+waiting until 2021-07-14T15:36:33.166Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+waiting until 2021-07-14T15:48:32.031Z to update
+time to update
+heroku: Updating CLI... not updatable
+ ›   Warning: update with "sudo apt update && sudo apt install heroku"
+Updating completions...
+Updating completions... done

@@ -1,0 +1,5 @@
+Flask
+line-bot-sdk
+pya3rt
+cv2
+pydrive
