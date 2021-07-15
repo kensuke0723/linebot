@@ -11,8 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:w !sudo tee %
+|2,0,1626361490,,"w !sudo tee %"
 :wq
-|2,0,1626361056,,"wq"
+|2,0,1626361376,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,28 +30,64 @@
 |3,1,0,0,1,0,1626359970,"P"
 
 # File marks:
-'0  4  11  ~/requirements.txt
-|4,48,4,11,1626361057,"~/requirements.txt"
-'1  4  12  ~/requirements.txt
-|4,49,4,12,1626361043,"~/requirements.txt"
-'2  1  11  ~/runtime.txt
-|4,50,1,11,1626359999,"~/runtime.txt"
-'3  1  11  ~/runtime.txt
-|4,51,1,11,1626330818,"~/runtime.txt"
+'0  1  11  ~/runtime.txt
+|4,48,1,11,1626361531,"~/runtime.txt"
+'1  1  11  ~/runtime.txt
+|4,49,1,11,1626361516,"~/runtime.txt"
+'2  4  11  ~/requirements.txt
+|4,50,4,11,1626361057,"~/requirements.txt"
+'3  4  12  ~/requirements.txt
+|4,51,4,12,1626361043,"~/requirements.txt"
 '4  1  11  ~/runtime.txt
-|4,52,1,11,1626330650,"~/runtime.txt"
+|4,52,1,11,1626359999,"~/runtime.txt"
 '5  1  11  ~/runtime.txt
-|4,53,1,11,1626330650,"~/runtime.txt"
+|4,53,1,11,1626359999,"~/runtime.txt"
+'6  1  11  ~/runtime.txt
+|4,54,1,11,1626330818,"~/runtime.txt"
+'7  1  11  ~/runtime.txt
+|4,55,1,11,1626330818,"~/runtime.txt"
+'8  1  11  ~/runtime.txt
+|4,56,1,11,1626330818,"~/runtime.txt"
+'9  1  11  ~/runtime.txt
+|4,57,1,11,1626330818,"~/runtime.txt"
 
 # Jumplist (newest first):
+-'  1  11  ~/runtime.txt
+|4,39,1,11,1626361531,"~/runtime.txt"
+-'  1  11  ~/runtime.txt
+|4,39,1,11,1626361516,"~/runtime.txt"
 -'  4  11  ~/requirements.txt
 |4,39,4,11,1626361057,"~/requirements.txt"
+-'  4  11  ~/requirements.txt
+|4,39,4,11,1626361057,"~/requirements.txt"
+-'  4  11  ~/requirements.txt
+|4,39,4,11,1626361057,"~/requirements.txt"
+-'  4  11  ~/requirements.txt
+|4,39,4,11,1626361057,"~/requirements.txt"
+-'  4  12  ~/requirements.txt
+|4,39,4,12,1626361043,"~/requirements.txt"
+-'  4  12  ~/requirements.txt
+|4,39,4,12,1626361043,"~/requirements.txt"
+-'  4  12  ~/requirements.txt
+|4,39,4,12,1626361043,"~/requirements.txt"
 -'  4  12  ~/requirements.txt
 |4,39,4,12,1626361043,"~/requirements.txt"
 -'  1  0  ~/requirements.txt
 |4,39,1,0,1626361007,"~/requirements.txt"
 -'  1  0  ~/requirements.txt
 |4,39,1,0,1626361007,"~/requirements.txt"
+-'  1  0  ~/requirements.txt
+|4,39,1,0,1626361007,"~/requirements.txt"
+-'  1  0  ~/requirements.txt
+|4,39,1,0,1626361007,"~/requirements.txt"
+-'  1  0  ~/requirements.txt
+|4,39,1,0,1626361007,"~/requirements.txt"
+-'  1  0  ~/requirements.txt
+|4,39,1,0,1626361007,"~/requirements.txt"
+-'  1  0  ~/requirements.txt
+|4,39,1,0,1626361007,"~/requirements.txt"
+-'  1  0  ~/requirements.txt
+|4,39,1,0,1626361007,"~/requirements.txt"
 -'  1  11  ~/runtime.txt
 |4,39,1,11,1626359999,"~/runtime.txt"
 -'  1  11  ~/runtime.txt
@@ -58,6 +96,8 @@
 |4,39,1,11,1626359999,"~/runtime.txt"
 -'  1  11  ~/runtime.txt
 |4,39,1,11,1626359999,"~/runtime.txt"
+-'  2  2  ~/runtime.txt
+|4,39,2,2,1626359990,"~/runtime.txt"
 -'  2  2  ~/runtime.txt
 |4,39,2,2,1626359990,"~/runtime.txt"
 -'  2  2  ~/runtime.txt
@@ -85,20 +125,22 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/runtime.txt
+	*	1626361528	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	0
+	+	1	12
+	+	1	0
+	+	1	12
+	+	1	24
+	+	2	0
+	+	1	11
+
 > ~/requirements.txt
 	*	1626361051	0
 	"	4	11
 	^	4	13
 	.	4	12
 	+	4	12
-
-> ~/runtime.txt
-	*	1626359997	0
-	"	1	11
-	^	1	12
-	.	3	0
-	+	1	0
-	+	1	12
-	+	1	0
-	+	2	0
-	+	3	0

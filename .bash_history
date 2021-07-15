@@ -63,3 +63,23 @@ git pull origin master
 git commit
 git commit runtime.txt
 git pull origin master
+git init
+git add .
+git push origin master
+git commit -m
+git commit
+git ini
+git init
+git add .
+git pull origin master
+git commit -a
+git pull origin master
+git push origin master
+git add .
+git pull 
+git pull origin master
+git push -f origin master
+vim requirements.txt
+git commit -a
+git push -f origin master
+vim runtime.txt
