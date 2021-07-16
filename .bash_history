@@ -108,3 +108,14 @@ git commit -a
 git push origin master
 heroku logs --tail
 sudo vim Aptfile
+sudo vim requirements.txt
+git init
+git add .
+git commit -a
+git push origin master
+heroku logs --tail
+sudo vim requirements.txt
+git commit requirements.txt
+git push origin master
+heroku logs --tail
+sudo vim Aptfile
