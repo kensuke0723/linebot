@@ -42,7 +42,7 @@ def handle_message(event):
         cap = cv2.VideoCapture(0)
        
         ret, frame = cap.read()
-        frame = cv2.resize(frame, dsize=(10, 10))
+        #frame = cv2.resize(frame, dsize=(10, 10))
 
         frame_gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
         ret, frame_otsu = cv2.threshold(frame_gray, 0, 255, cv2.THRESH_OTSU)
