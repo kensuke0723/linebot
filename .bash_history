@@ -88,3 +88,23 @@ git push origin master
 python3 line_proto.py
 ls
 vim Procfile
+heroku logs --tail
+heroku run console
+heroku logs --tail
+heroku run rails c
+heroku run console
+heroku restart -app
+heroku restart -app inebotkensuke
+heroku restart -app linebotkensuke
+heroku logs --tail
+heroku
+heroku logs --tail
+heroku buildpacks:add --index 1 https://github.com/heroku/heroku-buildpack-a
+sudo vim Aptfile
+git push heroku main
+git init
+git add .
+git commit -a
+git push origin master
+heroku logs --tail
+sudo vim Aptfile
