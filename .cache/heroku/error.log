@@ -108,3 +108,21 @@ Manually visit https://linebotkensuke.herokuapp.com/ in your browser.
     at ChildProcess.emit (events.js:314:20)
     at maybeClose (internal/child_process.js:1022:16)
     at Process.ChildProcess._handle.onexit (internal/child_process.js:287:5)
+2021/07/16 04:31:09 Error: Expected response to be successful, got 404
+    at Request.handleFailure [as _handleFailure] (/usr/lib/heroku/node_modules/heroku-client/lib/request.js:255:11)
+    at Request.<anonymous> (/usr/lib/heroku/node_modules/heroku-cli-util/lib/command.js:56:12)
+    at /usr/lib/heroku/node_modules/heroku-client/lib/request.js:148:16
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/07/16 04:31:09 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
+2021/07/16 04:31:32 Error: Expected response to be successful, got 404
+    at Request.handleFailure [as _handleFailure] (/usr/lib/heroku/node_modules/heroku-client/lib/request.js:255:11)
+    at Request.<anonymous> (/usr/lib/heroku/node_modules/heroku-cli-util/lib/command.js:56:12)
+    at /usr/lib/heroku/node_modules/heroku-client/lib/request.js:148:16
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/07/16 04:31:32 {"resource":"app","id":"not_found","message":"Couldn't find that app."}
+2021/07/16 04:31:39 Error: Expected response to be successful, got 404
+    at Request.handleFailure [as _handleFailure] (/usr/lib/heroku/node_modules/heroku-client/lib/request.js:255:11)
+    at Request.<anonymous> (/usr/lib/heroku/node_modules/heroku-cli-util/lib/command.js:56:12)
+    at /usr/lib/heroku/node_modules/heroku-client/lib/request.js:148:16
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+2021/07/16 04:31:39 {"resource":"app","id":"not_found","message":"Couldn't find that app."}

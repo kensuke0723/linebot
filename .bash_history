@@ -83,3 +83,8 @@ vim requirements.txt
 git commit -a
 git push -f origin master
 vim runtime.txt
+git commit -a 
+git push origin master
+python3 line_proto.py
+ls
+vim Procfile
